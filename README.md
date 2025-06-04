@@ -41,7 +41,7 @@ A responsive web mini project that dynamically updates seasonal visuals for **Sp
 
 ## 📸 Preview
 
-![Seasons Switcher Preview](Screenshot 2025-06-04 142619.png)
+![Seasons Switcher Preview](./Screenshot 2025-06-04 142619.png)
 
 
 ---
