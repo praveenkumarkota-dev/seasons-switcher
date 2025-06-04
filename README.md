@@ -39,7 +39,8 @@ A responsive web mini project that dynamically updates seasonal visuals for **Sp
 
 ## 📸 Preview
 
-![Seasons Switcher Preview](https://raw.githubusercontent.com/praveenkumarkota-dev/seasons-switcher/main/assets/Screenshot 2025-06-04 142619.png)
+![Seasons Switcher Preview](image_traffic_light.png)
+
 
 ---
 
