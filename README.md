@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/praveenkumarkota-dev/praveenkumarkota-dev/refs/heads/main/ChatGPT Image Jun 4, 2025, 03_22_51 PM.png.jpg" alt="Banner" style="width:100%;" />
+<img src="https://res.cloudinary.com/dcnncsybz/image/upload/v1749031267/ChatGPT_Image_Jun_4_2025_03_22_51_PM_1_w14lf1.png" alt="Banner" style="width:100%;" />
 
 # 🌤️ Seasons Switcher
 
