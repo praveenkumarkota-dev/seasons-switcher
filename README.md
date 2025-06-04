@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/praveenkumarkota-dev/praveenkumarkota-dev/refs/heads/main/IMG_2.png.jpg" alt="Banner" style="width:100%;" />
+
 # 🌤️ Seasons Switcher
 
 A responsive web mini project that dynamically updates seasonal visuals for **Spring**, **Summer**, **Autumn**, and **Winter** based on user interaction. Built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
